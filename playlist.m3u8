@@ -8,7 +8,8 @@ http://null
 #EXTINF:-1,CNN Go
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
 
-#EXTGRP:Sports
+#EXTINF:-1,SPORTSNET WEST
+http://sapphireapp.xyz:8080/live/e69ynYRXG6/4087678600/15903.m3u8
 #EXTINF:-1,ACC NETWORK
 http://fl3.moveonjoy.com/ACC_NETWORK/index.m3u8
 #EXTINF:-1,BEIN SPORTS
