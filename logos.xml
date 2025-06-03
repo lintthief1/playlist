@@ -2,275 +2,275 @@
 <tv>
     <channel id="cnn.us">
         <display-name>CNN Go</display-name>
-        <icon src="https://upload.wikimedia.org/wikipedia/commons/a/a2/CNN_International_logo.png" />
+        <icon src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/cnn-us.png" />
     </channel>
     <channel id="acc.us">
         <display-name>ACC NETWORK</display-name>
-        <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/ACC_Network_logo.svg/1280px-ACC_Network_logo.svg.png" />
+        <icon src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/acc-network-us.png" />
     </channel>
     <channel id="beinsports.us">
         <display-name>BEIN SPORTS</display-name>
-        <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/BeIN_Sports_logo.svg/1280px-BeIN_Sports_logo.svg.png" />
+        <icon src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/bein-sports-us.png" />
     </channel>
     <channel id="bigten.us">
         <display-name>BIG TEN NETWORK</display-name>
-        <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Big_Ten_Network.svg/1280px-Big_Ten_Network.svg.png" />
+        <icon src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/big-ten-network-us.png" />
     </channel>
     <channel id="cbssports.us">
         <display-name>CBS SPORTS NETWORK</display-name>
-        <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/CBS_Sports_Network.svg/1280px-CBS_Sports_Network.svg.png" />
+        <icon src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/cbs-sports-network-us.png" />
     </channel>
     <channel id="espn2.us">
         <display-name>ESPN 2</display-name>
-        <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/ESPN2_logo.svg/1280px-ESPN2_logo.svg.png" />
+        <icon src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/espn2-us.png" />
     </channel>
     <channel id="espnu.us">
         <display-name>ESPN U</display-name>
-        <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/ESPNU_logo.svg/1280px-ESPNU_logo.svg.png" />
+        <icon src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/espnu-us.png" />
     </channel>
     <channel id="mlb.us">
         <display-name>MLB NETWORK</display-name>
-        <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/MLB_Network_logo.svg/1280px-MLB_Network_logo.svg.png" />
+        <icon src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/mlb-network-us.png" />
     </channel>
     <channel id="motortrend.us">
         <display-name>MOTOR TREND</display-name>
-        <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/MotorTrend_Channel_logo.svg/1280px-MotorTrend_Channel_logo.svg.png" />
+        <icon src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/motor-trend-us.png" />
     </channel>
     <channel id="msg.us">
         <display-name>MSG</display-name>
-        <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/MSG_Network_logo.svg/1280px-MSG_Network_logo.svg.png" />
+        <icon src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/msg-us.png" />
     </channel>
     <channel id="nbatv.us">
         <display-name>NBA TV</display-name>
-        <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/NBA_TV_logo.svg/1280px-NBA_TV_logo.svg.png" />
+        <icon src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/nba-tv-us.png" />
     </channel>
     <channel id="nbcsportsboston.us">
         <display-name>NBC SPORTS BOSTON</display-name>
-        <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/NBC_Sports_Boston_logo.svg/1280px-NBC_Sports_Boston_logo.svg.png" />
+        <icon src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/nbc-sports-boston-us.png" />
     </channel>
     <channel id="nfl.us">
         <display-name>NFL NETWORK</display-name>
-        <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/NFL_Network_logo.svg/1280px-NFL_Network_logo.svg.png" />
+        <icon src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/nfl-network-us.png" />
     </channel>
     <channel id="nhl.us">
         <display-name>NHL NETWORK</display-name>
-        <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/NHL_Network_logo.svg/1280px-NHL_Network_logo.svg.png" />
+        <icon src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/nhl-network-us.png" />
     </channel>
     <channel id="outdoorchannel.us">
         <display-name>OUTDOOR CHANNEL</display-name>
-        <icon src="https://upload.wikimedia.org/wikipedia/en/thumb/0/0c/Outdoor_Channel_logo.svg/1280px-Outdoor_Channel_logo.svg.png" />
+        <icon src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/outdoor-channel-us.png" />
     </channel>
     <channel id="yesnetwork.us">
         <display-name>YES NETWORK</display-name>
-        <icon src="https://upload.wikimedia.org/wikipedia/en/thumb/4/4b/YES_Network_logo.svg/1280px-YES_Network_logo.svg.png" />
+        <icon src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/yes-network-us.png" />
     </channel>
     <channel id="cinemax.us">
         <display-name>CINEMAX</display-name>
-        <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Cinemax_logo.svg/1280px-Cinemax_logo.svg.png" />
+        <icon src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/cinemax-us.png" />
     </channel>
     <channel id="cinemaxwest.us">
         <display-name>CINEMAX WEST</display-name>
-        <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Cinemax_logo.svg/1280px-Cinemax_logo.svg.png" />
+        <icon src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/cinemax-west-us.png" />
     </channel>
     <channel id="fxmovies.us">
         <display-name>FX MOVIE</display-name>
-        <icon src="https://upload.wikimedia.org/wikipedia/en/thumb/f/f7/FX_Movie_Channel_logo.svg/1280px-FX_Movie_Channel_logo.svg.png" />
+        <icon src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/fxm-us.png" />
     </channel>
     <channel id="hallmarkmovies.us">
         <display-name>HALLMARK MOVIES MYSTERIES</display-name>
-        <icon src="https://upload.wikimedia.org/wikipedia/en/thumb/f/f0/Hallmark_Movies_%26_Mysteries_logo.svg/1280px-Hallmark_Movies_%26_Mysteries_logo.svg.png" />
+        <icon src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/hallmark-movies-mysteries-us.png" />
     </channel>
     <channel id="hbo.us">
         <display-name>HBO</display-name>
-        <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/HBO_logo.svg/1280px-HBO_logo.svg.png" />
+        <icon src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/hbo-us.png" />
     </channel>
     <channel id="hbofamily.us">
         <display-name>HBO FAMILY</display-name>
-        <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/HBO_Family_logo.svg/1280px-HBO_Family_logo.svg.png" />
+        <icon src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/hbo-family-us.png" />
     </channel>
     <channel id="lifetimemovies.us">
         <display-name>LIFETIME MOVIE NETWORK</display-name>
-        <icon src="https://upload.wikimedia.org/wikipedia/en/thumb/e/e6/LMN_logo.svg/1280px-LMN_logo.svg.png" />
+        <icon src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/lifetime-movie-network-us.png" />
     </channel>
     <channel id="outermax.us">
         <display-name>OUTER MAX</display-name>
-        <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/OuterMax_logo.svg/1280px-OuterMax_logo.svg.png" />
+        <icon src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/outermax-us.png" />
     </channel>
     <channel id="reelz.us">
         <display-name>REELZ</display-name>
-        <icon src="https://upload.wikimedia.org/wikipedia/en/thumb/8/87/Reelz_logo.svg/1280px-Reelz_logo.svg.png" />
+        <icon src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/reelz-us.png" />
     </channel>
     <channel id="showtime.us">
         <display-name>SHOWTIME</display-name>
-        <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Showtime_logo.svg/1280px-Showtime_logo.svg.png" />
+        <icon src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/showtime-us.png" />
     </channel>
     <channel id="showtimenext.us">
         <display-name>SHOWTIME NEXT</display-name>
-        <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Showtime_Next_logo.svg/1280px-Showtime_Next_logo.svg.png" />
+        <icon src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/showtime-next-us.png" />
     </channel>
     <channel id="showtimewest.us">
         <display-name>SHOWTIME WEST</display-name>
-        <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Showtime_logo.svg/1280px-Showtime_logo.svg.png" />
+        <icon src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/showtime-west-us.png" />
     </channel>
     <channel id="showtimewomen.us">
         <display-name>SHOWTIME WOMEN</display-name>
-        <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Showtime_Women_logo.svg/1280px-Showtime_Women_logo.svg.png" />
+        <icon src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/showtime-women-us.png" />
     </channel>
     <channel id="amc.us">
         <display-name>AMC NETWORK</display-name>
-        <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/AMC_logo.svg/1280px-AMC_logo.svg.png" />
+        <icon src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/amc-us.png" />
     </channel>
     <channel id="bbcamerica.us">
         <display-name>BBC AMERICA</display-name>
-        <icon src="https://upload.wikimedia.org/wikipedia/en/thumb/f/fa/BBC_America_logo.svg/1280px-BBC_America_logo.svg.png" />
+        <icon src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/bbc-america-us.png" />
     </channel>
     <channel id="beteast.us">
         <display-name>BET EAST</display-name>
-        <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/BET_logo.svg/1280px-BET_logo.svg.png" />
+        <icon src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/bet-east-us.png" />
     </channel>
     <channel id="bether.us">
         <display-name>BET HER</display-name>
-        <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/BET_Her_logo.svg/1280px-BET_Her_logo.svg.png" />
+        <icon src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/bet-her-us.png" />
     </channel>
     <channel id="bouncetv.us">
         <display-name>BOUNCE TV</display-name>
-        <icon src="https://upload.wikimedia.org/wikipedia/en/thumb/1/1a/Bounce_TV_logo.svg/1280px-Bounce_TV_logo.svg.png" />
+        <icon src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/bounce-tv-us.png" />
     </channel>
     <channel id="bravo.us">
         <display-name>BRAVO</display-name>
-        <icon src="https://upload.wikimedia.org/wikipedia/en/thumb/b/b3/Bravo_logo.svg/1280px-Bravo_logo.svg.png" />
+        <icon src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/bravo-us.png" />
     </channel>
     <channel id="cmt.us">
         <display-name>CMT</display-name>
-        <icon src="https://upload.wikimedia.org/wikipedia/en/thumb/b/b5/CMT_logo.svg/1280px-CMT_logo.svg.png" />
+        <icon src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/cmt-us.png" />
     </channel>
     <channel id="comedycentral.us">
         <display-name>Comedy Central</display-name>
-        <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Comedy_Central_logo.svg/1280px-Comedy_Central_logo.svg.png" />
+        <icon src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/comedy-central-us.png" />
     </channel>
     <channel id="comet.us">
         <display-name>COMET</display-name>
-        <icon src="https://upload.wikimedia.org/wikipedia/en/thumb/b/b9/Comet_logo.svg/1280px-Comet_logo.svg.png" />
+        <icon src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/comet-us.png" />
     </channel>
     <channel id="cookingchannel.us">
         <display-name>COOKING CHANNEL</display-name>
-        <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Cooking_Channel_logo.svg/1280px-Cooking_Channel_logo.svg.png" />
+        <icon src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/cooking-channel-us.png" />
     </channel>
     <channel id="diy.us">
         <display-name>DIY</display-name>
-        <icon src="https://upload.wikimedia.org/wikipedia/en/thumb/c/cd/DIY_Network.svg/1280px-DIY_Network.svg.png" />
+        <icon src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/diy-network-us.png" />
     </channel>
     <channel id="fx.us">
         <display-name>FX</display-name>
-        <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/FX_logo.svg/1280px-FX_logo.svg.png" />
+        <icon src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/fx-us.png" />
     </channel>
     <channel id="fxx.us">
         <display-name>FXX</display-name>
-        <icon src="https://upload.wikimedia.org/wikipedia/en/thumb/c/cc/FXX_logo.svg/1280px-FXX_logo.svg.png" />
+        <icon src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/fxx-us.png" />
     </channel>
     <channel id="gettv.us">
         <display-name>GET TV</display-name>
-        <icon src="https://upload.wikimedia.org/wikipedia/en/thumb/4/4c/GetTV_logo.svg/1280px-GetTV_logo.svg.png" />
+        <icon src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/gettv-us.png" />
     </channel>
     <channel id="hallmark.us">
         <display-name>HALLMARK CHANNEL</display-name>
-        <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Hallmark_Channel_logo.svg/1280px-Hallmark_Channel_logo.svg.png" />
+        <icon src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/hallmark-channel-us.png" />
     </channel>
     <channel id="hallmarkdrama.us">
         <display-name>HALLMARK DRAMA</display-name>
-        <icon src="https://upload.wikimedia.org/wikipedia/en/thumb/8/86/Hallmark_Drama_logo.svg/1280px-Hallmark_Drama_logo.svg.png" />
+        <icon src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/hallmark-drama-us.png" />
     </channel>
     <channel id="hgtv.us">
         <display-name>HGTV</display-name>
-        <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/HGTV_logo.svg/1280px-HGTV_logo.svg.png" />
+        <icon src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/hgtv-us.png" />
     </channel>
     <channel id="lifetime.us">
         <display-name>LIFETIME</display-name>
-        <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Lifetime_logo.svg/1280px-Lifetime_logo.svg.png" />
+        <icon src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/lifetime-us.png" />
     </channel>
     <channel id="metv.us">
         <display-name>ME TV</display-name>
-        <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/MeTV_logo.svg/1280px-MeTV_logo.svg.png" />
+        <icon src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/metv-us.png" />
     </channel>
     <channel id="mtv.us">
         <display-name>MTV</display-name>
-        <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/MTV_logo.svg/1280px-MTV_logo.svg.png" />
+        <icon src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/mtv-us.png" />
     </channel>
     <channel id="paramount.us">
         <display-name>PARAMOUNT NETWORK</display-name>
-        <icon src="https://upload.wikimedia.org/wikipedia/commons/e/ec/Paramount_Network_2020.png" />
+        <icon src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/paramount-network-us.png" />
     </channel>
     <channel id="syfy.us">
         <display-name>SYFY</display-name>
-        <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Syfy_logo.svg/1280px-Syfy_logo.svg.png" />
+        <icon src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/syfy-us.png" />
     </channel>
     <channel id="tbs.us">
         <display-name>TBS</display-name>
-        <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/TBS_2024_logo.svg/1280px-TBS_2024_logo.svg.png" />
+        <icon src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/tbs-us.png" />
     </channel>
     <channel id="travelchannel.us">
         <display-name>Travel Channel</display-name>
-        <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Travel_Channel_logo.svg/1280px-Travel_Channel_logo.svg.png" />
+        <icon src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/travel-channel-us.png" />
     </channel>
     <channel id="trutv.us">
         <display-name>TRU TV</display-name>
-        <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/TruTV_logo.svg/1280px-TruTV_logo.svg.png" />
+        <icon src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/trutv-us.png" />
     </channel>
     <channel id="vh1.us">
         <display-name>VH1</display-name>
-        <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/VH1_2021.svg/1280px-VH1_2021.svg.png" />
+        <icon src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/vh1-us.png" />
     </channel>
     <channel id="animalplanet.us">
         <display-name>Animal Planet</display-name>
-        <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Animal_Planet_logo_%282018%29.svg/1280px-Animal_Planet_logo_%282018%29.svg.png" />
+        <icon src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/animal-planet-us.png" />
     </channel>
     <channel id="boomerang.us">
         <display-name>BOOMERANG</display-name>
-        <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Boomerang_logo_%282015%29.svg/1280px-Boomerang_logo_%282015%29.svg.png" />
+        <icon src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/boomerang-us.png" />
     </channel>
     <channel id="cartoonnetwork.us">
         <display-name>CARTOON NETWORK</display-name>
-        <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Cartoon_Network_2023_logo.svg/1280px-Cartoon_Network_2023_logo.svg.png" />
+        <icon src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/cartoon-network-us.png" />
     </channel>
     <channel id="discoveryfamily.us">
         <display-name>DISCOVERY FAMILY CHANNEL</display-name>
-        <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Discovery_Family_logo.svg/1280px-Discovery_Family_logo.svg.png" />
+        <icon src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/discovery-family-channel-us.png" />
     </channel>
     <channel id="disneyjr.us">
         <display-name>DISNEY JR</display-name>
-        <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Disney_Junior_logo.svg/1280px-Disney_Junior_logo.svg.png" />
+        <icon src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/disney-jr-us.png" />
     </channel>
     <channel id="disneyxd.us">
         <display-name>DISNEY XD</display-name>
-        <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Disney_XD_logo.svg/1280px-Disney_XD_logo.svg.png" />
+        <icon src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/disney-xd-us.png" />
     </channel>
     <channel id="nickjr.us">
         <display-name>NICK JR</display-name>
-        <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Nick_Jr_logo_2023.svg/1280px-Nick_Jr_logo_2023.svg.png" />
+        <icon src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/nick-jr-us.png" />
     </channel>
     <channel id="nicktoons.us">
         <display-name>NICKTOONS</display-name>
-        <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Nicktoons_logo_%282014%29.svg/1280px-Nicktoons_logo_%282014%29.svg.png" />
+        <icon src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/nicktoons-us.png" />
     </channel>
     <channel id="discovery.us">
         <display-name>Discovery Channel</display-name>
-        <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Discovery_Channel_2023_logo.svg/1280px-Discovery_Channel_2023_logo.svg.png" />
+        <icon src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/discovery-channel-us.png" />
     </channel>
     <channel id="history.us">
         <display-name>History Channel</display-name>
-        <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/History_Channel_logo_%282023%29.svg/1280px-History_Channel_logo_%282023%29.svg.png" />
+        <icon src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/history-channel-us.png" />
     </channel>
     <channel id="investigationdiscovery.us">
         <display-name>INVESTIGATION DISCOVERY</display-name>
-        <icon src="https://upload.wikimedia.org/wikipedia/en/thumb/f/fd/Investigation_Discovery_logo.svg/1280px-Investigation_Discovery_logo.svg.png" />
+        <icon src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/investigation-discovery-us.png" />
     </channel>
     <channel id="natgeo.us">
         <display-name>National Geographic</display-name>
-        <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/National_Geographic_Channel_logo.svg/1280px-National_Geographic_Channel_logo.svg.png" />
+        <icon src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/national-geographic-us.png" />
     </channel>
     <channel id="laff.us">
         <display-name>Laff</display-name>
-        <icon src="https://upload.wikimedia.org/wikipedia/en/thumb/6/60/Laff_logo.svg/1280px-Laff_logo.svg.png" />
+        <icon src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/laff-us.png" />
     </channel>
     <channel id="unknown.us">
         <display-name>UNKNOWN CHANNEL</display-name>
