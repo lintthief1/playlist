@@ -1,5 +1,6 @@
-# [COLOR red]VISIT https://titantv.com/ AND LOGIN with username: [COLOR green]lintthief[/COLOR] and password: [COLOR green]Password1[/COLOR][/COLOR]
 #EXTM3U
+#EXTINF:-1,VISIT https://titantv.com/ AND LOGIN with username: lintthief and password: Password1
+http://null
 
 #EXTGRP:News & Info
 #EXTINF:-1,CNN Go
