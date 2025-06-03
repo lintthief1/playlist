@@ -1,15 +1,15 @@
 #EXTM3U
-#EXTINF:-1,PARAMOUNT NETWORK
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/someuser/tv-logos/main/Paramount_Network.png",PARAMOUNT NETWORK
 http://fl3.moveonjoy.com/PARAMOUNT_NETWORK/index.m3u8
-#EXTINF:-1,CNN Go
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/anotheruser/channel-icons/master/CNN.png",CNN Go
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
-#EXTINF:-1,CBS SPORTS NETWORK
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/someuser/tv-logos/main/CBS_Sports_Network.png",CBS SPORTS NETWORK
 http://fl3.moveonjoy.com/CBS_SPORTS_NETWORK/index.m3u8
-#EXTINF:-1,BIG TEN NETWORK
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/someuser/tv-logos/main/Big_Ten_Network.png",BIG TEN NETWORK
 http://fl3.moveonjoy.com/BIG_TEN_NETWORK/index.m3u8
-#EXTINF:-1,BEIN SPORTS
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/someuser/tv-logos/main/Bein_Sports.png",BEIN SPORTS
 http://fl3.moveonjoy.com/BEIN_SPORTS/index.m3u8
-#EXTINF:-1,ACC NETWORK
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/someuser/tv-logos/main/ACC_Network.png",ACC NETWORK
 http://fl3.moveonjoy.com/ACC_NETWORK/index.m3u8
-#EXTINF:-1,ESPN 2
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/someuser/tv-logos/main/ESPN2.png",ESPN 2
 http://fl3.moveonjoy.com/ESPN_2/index.m3u8
