@@ -1,22 +1,27 @@
+#TO VIEW WHAT IS ON YOU SHOULD VISIT https://titantv.com/ AND LOGIN with username: lintthief and password: Password1
 #EXTM3U
-#EXTINF:-1,PARAMOUNT NETWORK
-http://fl3.moveonjoy.com/PARAMOUNT_NETWORK/index.m3u8
+
+#EXTGRP:News & Info
 #EXTINF:-1,CNN Go
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
-#EXTINF:-1,CBS SPORTS NETWORK
-http://fl3.moveonjoy.com/CBS_SPORTS_NETWORK/index.m3u8
-#EXTINF:-1,BIG TEN NETWORK
-http://fl3.moveonjoy.com/BIG_TEN_NETWORK/index.m3u8
-#EXTINF:-1,BEIN SPORTS
-http://fl3.moveonjoy.com/BEIN_SPORTS/index.m3u8
+
+#EXTGRP:Sports
 #EXTINF:-1,ACC NETWORK
 http://fl3.moveonjoy.com/ACC_NETWORK/index.m3u8
+#EXTINF:-1,BEIN SPORTS
+http://fl3.moveonjoy.com/BEIN_SPORTS/index.m3u8
+#EXTINF:-1,BIG TEN NETWORK
+http://fl3.moveonjoy.com/BIG_TEN_NETWORK/index.m3u8
+#EXTINF:-1,CBS SPORTS NETWORK
+http://fl3.moveonjoy.com/CBS_SPORTS_NETWORK/index.m3u8
 #EXTINF:-1,ESPN 2
 http://fl3.moveonjoy.com/ESPN_2/index.m3u8
-#EXTINF:-1,MLB NETWORK
-http://fl3.moveonjoy.com/MLB_NETWORK/index.m3u8
 #EXTINF:-1,ESPN U
 http://fl3.moveonjoy.com/ESPN_U/index.m3u8
+#EXTINF:-1,MLB NETWORK
+http://fl3.moveonjoy.com/MLB_NETWORK/index.m3u8
+#EXTINF:-1,MOTOR TREND
+http://fl3.moveonjoy.com/MOTOR_TREND/index.m3u8
 #EXTINF:-1,MSG
 http://fl3.moveonjoy.com/MSG/index.m3u8
 #EXTINF:-1,NBA TV
@@ -27,14 +32,48 @@ https://fl4.moveonjoy.com/NBC_SPORTS_BOSTON/index.m3u8
 http://fl3.moveonjoy.com/NFL_NETWORK/index.m3u8
 #EXTINF:-1,NHL NETWORK
 http://fl3.moveonjoy.com/NHL_NETWORK/index.m3u8
+#EXTINF:-1,OUTDOOR CHANNEL
+http://fl3.moveonjoy.com/OUTDOOR_CHANNEL/index.m3u8
 #EXTINF:-1,YES NETWORK
 http://fl3.moveonjoy.com/YES_NETWORK/index.m3u8
+
+#EXTGRP:Movies & Premium
+#EXTINF:-1,CINEMAX
+http://fl3.moveonjoy.com/CINEMAX/index.m3u8
+#EXTINF:-1,CINEMAX WEST
+http://fl3.moveonjoy.com/CINEMAX_WEST/index.m3u8
+#EXTINF:-1,FX MOVIE
+http://fl3.moveonjoy.com/FX_MOVIE/index.m3u8
+#EXTINF:-1,HALLMARK MOVIES MYSTERIES
+http://fl3.moveonjoy.com/HALLMARK_MOVIES_MYSTERIES/index.m3u8
+#EXTINF:-1,HBO
+http://fl3.moveonjoy.com/HBO/index.m3u8
+#EXTINF:-1,HBO FAMILY
+http://fl5.moveonjoy.com/HBO_FAMILY/index.m3u8
+#EXTINF:-1,LIFETIME MOVIE NETWORK
+http://fl3.moveonjoy.com/LIFETIME_MOVIE_NETWORK/index.m3u8
+#EXTINF:-1,OUTER MAX
+http://fl3.moveonjoy.com/OUTER_MAX/index.m3u8
+#EXTINF:-1,REELZ
+http://fl3.moveonjoy.com/REELZ/index.m3u8
+#EXTINF:-1,SHOWTIME
+http://fl3.moveonjoy.com/SHOWTIME/index.m3u8
+#EXTINF:-1,SHOWTIME NEXT
+http://fl3.moveonjoy.com/SHOWTIME_NEXT/index.m3u8
+#EXTINF:-1,SHOWTIME WEST
+http://fl3.moveonjoy.com/SHOWTIME_WEST/index.m3u8
+#EXTINF:-1,SHOWTIME WOMEN
+http://fl3.moveonjoy.com/SHOWTIME_WOMEN/index.m3u8
+
+#EXTGRP:General Entertainment
 #EXTINF:-1,AMC NETWORK
 http://fl5.moveonjoy.com/AMC_NETWORK/index.m3u8
 #EXTINF:-1,BBC AMERICA
 http://fl3.moveonjoy.com/BBC_AMERICA/index.m3u8
 #EXTINF:-1,BET EAST
 http://fl3.moveonjoy.com/BET_EAST/index.m3u8
+#EXTINF:-1,BET HER
+http://fl3.moveonjoy.com/BET_HER/index.m3u8
 #EXTINF:-1,BOUNCE TV
 http://fl3.moveonjoy.com/BOUNCE_TV/index.m3u8
 #EXTINF:-1,BRAVO
@@ -45,10 +84,12 @@ http://fl3.moveonjoy.com/CMT/index.m3u8
 http://fl3.moveonjoy.com/Comedy_Central/index.m3u8
 #EXTINF:-1,COMET
 http://fl3.moveonjoy.com/COMET/index.m3u8
+#EXTINF:-1,COOKING CHANNEL
+http://fl3.moveonjoy.com/COOKING_CHANNEL/index.m3u8
+#EXTINF:-1,DIY
+http://fl3.moveonjoy.com/DIY/index.m3u8
 #EXTINF:-1,FX
 http://fl3.moveonjoy.com/FX/index.m3u8
-#EXTINF:-1,FX MOVIE
-http://fl3.moveonjoy.com/FX_MOVIE/index.m3u8
 #EXTINF:-1,FXX
 http://fl3.moveonjoy.com/FXX/index.m3u8
 #EXTINF:-1,GET TV
@@ -57,78 +98,46 @@ http://fl3.moveonjoy.com/GET_TV/index.m3u8
 http://fl3.moveonjoy.com/HALLMARK_CHANNEL/index.m3u8
 #EXTINF:-1,HALLMARK DRAMA
 http://fl3.moveonjoy.com/HALLMARK_DRAMA/index.m3u8
-#EXTINF:-1,HALLMARK MOVIES MYSTERIES
-http://fl3.moveonjoy.com/HALLMARK_MOVIES_MYSTERIES/index.m3u8
-#EXTINF:-1,Laff
-http://72.46.118.193/Laff/index.m3u8
-#EXTINF:-1,LIFETIME MOVIE NETWORK
-http://fl3.moveonjoy.com/LIFETIME_MOVIE_NETWORK/index.m3u8
-#EXTINF:-1,ME TV
-http://fl3.moveonjoy.com/ME_TV/index.m3u8
-#EXTINF:-1,MTV
-http://fl3.moveonjoy.com/MTV/index.m3u8
-#EXTINF:-1,REELZ
-http://fl3.moveonjoy.com/REELZ/index.m3u8
-#EXTINF:-1,SYFY
-http://fl3.moveonjoy.com/SYFY/index.m3u8
-#EXTINF:-1,TBS
-http://fl3.moveonjoy.com/TBS/index.m3u8
-#EXTINF:-1,TRU TV
-http://fl3.moveonjoy.com/TRU_TV/index.m3u8
-#EXTINF:-1,VH1
-http://fl3.moveonjoy.com/VH1/index.m3u8
-#EXTINF:-1,CINEMAX
-http://fl3.moveonjoy.com/CINEMAX/index.m3u8
-#EXTINF:-1,CINEMAX WEST
-http://fl3.moveonjoy.com/CINEMAX_WEST/index.m3u8
-#EXTINF:-1,OUTER MAX
-http://fl3.moveonjoy.com/OUTER_MAX/index.m3u8
-#EXTINF:-1,HBO
-http://fl3.moveonjoy.com/HBO/index.m3u8
-#EXTINF:-1,HBO FAMILY
-http://fl5.moveonjoy.com/HBO_FAMILY/index.m3u8
-#EXTINF:-1,SHOWTIME
-http://fl3.moveonjoy.com/SHOWTIME/index.m3u8
-#EXTINF:-1,SHOWTIME WEST
-http://fl3.moveonjoy.com/SHOWTIME_WEST/index.m3u8
-#EXTINF:-1,SHOWTIME NEXT
-http://fl3.moveonjoy.com/SHOWTIME_NEXT/index.m3u8
-#EXTINF:-1,SHOWTIME WOMEN
-http://fl3.moveonjoy.com/SHOWTIME_WOMEN/index.m3u8
-#EXTINF:-1,BET HER
-http://fl3.moveonjoy.com/BET_HER/index.m3u8
-#EXTINF:-1,COOKING CHANNEL
-http://fl3.moveonjoy.com/COOKING_CHANNEL/index.m3u8
 #EXTINF:-1,HGTV
 http://fl3.moveonjoy.com/HGTV/index.m3u8
 #EXTINF:-1,LIFETIME
 http://fl3.moveonjoy.com/LIFETIME/index.m3u8
-#EXTINF:-1,DIY
-http://fl3.moveonjoy.com/DIY/index.m3u8
-#EXTINF:-1,MOTOR TREND
-http://fl3.moveonjoy.com/MOTOR_TREND/index.m3u8
-#EXTINF:-1,OUTDOOR CHANNEL
-http://fl3.moveonjoy.com/OUTDOOR_CHANNEL/index.m3u8
+#EXTINF:-1,ME TV
+http://fl3.moveonjoy.com/ME_TV/index.m3u8
+#EXTINF:-1,MTV
+http://fl3.moveonjoy.com/MTV/index.m3u8
+#EXTINF:-1,PARAMOUNT NETWORK
+http://fl3.moveonjoy.com/PARAMOUNT_NETWORK/index.m3u8
+#EXTINF:-1,SYFY
+http://fl3.moveonjoy.com/SYFY/index.m3u8
+#EXTINF:-1,TBS
+http://fl3.moveonjoy.com/TBS/index.m3u8
 #EXTINF:-1,Travel Channel
 http://fl3.moveonjoy.com/Travel_Channel/index.m3u8
+#EXTINF:-1,TRU TV
+http://fl3.moveonjoy.com/TRU_TV/index.m3u8
+#EXTINF:-1,VH1
+http://fl3.moveonjoy.com/VH1/index.m3u8
+
+#EXTGRP:Kids & Family
+#EXTINF:-1,Animal Planet
+http://fl3.moveonjoy.com/Animal_Planet/index.m3u8
 #EXTINF:-1,BOOMERANG
 http://fl3.moveonjoy.com/BOOMERANG/index.m3u8
 #EXTINF:-1,CARTOON NETWORK
 http://fl3.moveonjoy.com/CARTOON_NETWORK/index.m3u8
 #EXTINF:-1,DISCOVERY FAMILY CHANNEL
 http://fl3.moveonjoy.com/DISCOVERY_FAMILY_CHANNEL/index.m3u8
-#EXTINF:-1,DISNEY XD
-http://fl3.moveonjoy.com/DISNEY_XD/index.m3u8
-#EXTINF:-1,NICKTOONS
-http://fl3.moveonjoy.com/NICKTOONS/index.m3u8
 #EXTINF:-1,DISNEY JR
 http://fl5.moveonjoy.com/DISNEY_JR/index.m3u8
+#EXTINF:-1,DISNEY XD
+http://fl3.moveonjoy.com/DISNEY_XD/index.m3u8
 #EXTINF:-1,NICK JR
 http://fl3.moveonjoy.com/NICK_JR/index.m3u8
-#EXTINF:-1,UNKNOWN CHANNEL
-https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8
-#EXTINF:-1,Animal Planet
-http://fl3.moveonjoy.com/Animal_Planet/index.m3u8
+#EXTINF:-1,NICKTOONS
+http://fl3.moveonjoy.com/NICKTOONS/index.m3u8
+
+#EXTGRP:Documentary & Factual
 #EXTINF:-1,Discovery Channel
 http://fl3.moveonjoy.com/Discovery_Channel/index.m3u8
 #EXTINF:-1,History Channel
@@ -137,3 +146,9 @@ http://fl1.moveonjoy.com/history_channel/index.m3u8
 http://fl3.moveonjoy.com/INVESTIGATION_DISCOVERY/index.m3u8
 #EXTINF:-1,National Geographic
 http://fl3.moveonjoy.com/National_Geographic/index.m3u8
+
+#EXTGRP:Uncategorized
+#EXTINF:-1,Laff
+http://72.46.118.193/Laff/index.m3u8
+#EXTINF:-1,UNKNOWN CHANNEL
+https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8
