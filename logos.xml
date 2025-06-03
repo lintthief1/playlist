@@ -1,279 +1,279 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <tv>
-    <channel id="PARAMOUNT_NETWORK">
-        <display-name>PARAMOUNT NETWORK</display-name>
-        <icon src="http://example.com/logos/paramount_network.png" />
-    </channel>
-    <channel id="CNN_Go">
+    <channel id="cnn.us">
         <display-name>CNN Go</display-name>
         <icon src="http://example.com/logos/cnn_go.png" />
     </channel>
-    <channel id="CBS_SPORTS_NETWORK">
-        <display-name>CBS SPORTS NETWORK</display-name>
-        <icon src="http://example.com/logos/cbs_sports_network.png" />
-    </channel>
-    <channel id="BIG_TEN_NETWORK">
-        <display-name>BIG TEN NETWORK</display-name>
-        <icon src="http://example.com/logos/big_ten_network.png" />
-    </channel>
-    <channel id="BEIN_SPORTS">
-        <display-name>BEIN SPORTS</display-name>
-        <icon src="http://example.com/logos/bein_sports.png" />
-    </channel>
-    <channel id="ACC_NETWORK">
+    <channel id="acc.us">
         <display-name>ACC NETWORK</display-name>
         <icon src="http://example.com/logos/acc_network.png" />
     </channel>
-    <channel id="ESPN_2">
+    <channel id="beinsports.us">
+        <display-name>BEIN SPORTS</display-name>
+        <icon src="http://example.com/logos/bein_sports.png" />
+    </channel>
+    <channel id="bigten.us">
+        <display-name>BIG TEN NETWORK</display-name>
+        <icon src="http://example.com/logos/big_ten_network.png" />
+    </channel>
+    <channel id="cbssports.us">
+        <display-name>CBS SPORTS NETWORK</display-name>
+        <icon src="http://example.com/logos/cbs_sports_network.png" />
+    </channel>
+    <channel id="espn2.us">
         <display-name>ESPN 2</display-name>
         <icon src="http://example.com/logos/espn_2.png" />
     </channel>
-    <channel id="MLB_NETWORK">
-        <display-name>MLB NETWORK</display-name>
-        <icon src="http://example.com/logos/mlb_network.png" />
-    </channel>
-    <channel id="ESPN_U">
+    <channel id="espnu.us">
         <display-name>ESPN U</display-name>
         <icon src="http://example.com/logos/espn_u.png" />
     </channel>
-    <channel id="MSG">
-        <display-name>MSG</display-name>
-        <icon src="http://example.com/logos/msg.png" />
+    <channel id="mlb.us">
+        <display-name>MLB NETWORK</display-name>
+        <icon src="http://example.com/logos/mlb_network.png" />
     </channel>
-    <channel id="NBA_TV">
-        <display-name>NBA TV</display-name>
-        <icon src="http://example.com/logos/nba_tv.png" />
-    </channel>
-    <channel id="NBC_SPORTS_BOSTON">
-        <display-name>NBC SPORTS BOSTON</display-name>
-        <icon src="http://example.com/logos/nbc_sports_boston.png" />
-    </channel>
-    <channel id="NFL_NETWORK">
-        <display-name>NFL NETWORK</display-name>
-        <icon src="http://example.com/logos/nfl_network.png" />
-    </channel>
-    <channel id="NHL_NETWORK">
-        <display-name>NHL NETWORK</display-name>
-        <icon src="http://example.com/logos/nhl_network.png" />
-    </channel>
-    <channel id="YES_NETWORK">
-        <display-name>YES NETWORK</display-name>
-        <icon src="http://example.com/logos/yes_network.png" />
-    </channel>
-    <channel id="AMC_NETWORK">
-        <display-name>AMC NETWORK</display-name>
-        <icon src="http://example.com/logos/amc_network.png" />
-    </channel>
-    <channel id="BBC_AMERICA">
-        <display-name>BBC AMERICA</display-name>
-        <icon src="http://example.com/logos/bbc_america.png" />
-    </channel>
-    <channel id="BET_EAST">
-        <display-name>BET EAST</display-name>
-        <icon src="http://example.com/logos/bet_east.png" />
-    </channel>
-    <channel id="BOUNCE_TV">
-        <display-name>BOUNCE TV</display-name>
-        <icon src="http://example.com/logos/bounce_tv.png" />
-    </channel>
-    <channel id="BRAVO">
-        <display-name>BRAVO</display-name>
-        <icon src="http://example.com/logos/bravo.png" />
-    </channel>
-    <channel id="CMT">
-        <display-name>CMT</display-name>
-        <icon src="http://example.com/logos/cmt.png" />
-    </channel>
-    <channel id="Comedy_Central">
-        <display-name>Comedy Central</display-name>
-        <icon src="http://example.com/logos/comedy_central.png" />
-    </channel>
-    <channel id="COMET">
-        <display-name>COMET</display-name>
-        <icon src="http://example.com/logos/comet.png" />
-    </channel>
-    <channel id="FX">
-        <display-name>FX</display-name>
-        <icon src="http://example.com/logos/fx.png" />
-    </channel>
-    <channel id="FX_MOVIE">
-        <display-name>FX MOVIE</display-name>
-        <icon src="http://example.com/logos/fx_movie.png" />
-    </channel>
-    <channel id="FXX">
-        <display-name>FXX</display-name>
-        <icon src="http://example.com/logos/fxx.png" />
-    </channel>
-    <channel id="GET_TV">
-        <display-name>GET TV</display-name>
-        <icon src="http://example.com/logos/get_tv.png" />
-    </channel>
-    <channel id="HALLMARK_CHANNEL">
-        <display-name>HALLMARK CHANNEL</display-name>
-        <icon src="http://example.com/logos/hallmark_channel.png" />
-    </channel>
-    <channel id="HALLMARK_DRAMA">
-        <display-name>HALLMARK DRAMA</display-name>
-        <icon src="http://example.com/logos/hallmark_drama.png" />
-    </channel>
-    <channel id="HALLMARK_MOVIES_MYSTERIES">
-        <display-name>HALLMARK MOVIES MYSTERIES</display-name>
-        <icon src="http://example.com/logos/hallmark_movies_mysteries.png" />
-    </channel>
-    <channel id="Laff">
-        <display-name>Laff</display-name>
-        <icon src="http://example.com/logos/laff.png" />
-    </channel>
-    <channel id="LIFETIME_MOVIE_NETWORK">
-        <display-name>LIFETIME MOVIE NETWORK</display-name>
-        <icon src="http://example.com/logos/lifetime_movie_network.png" />
-    </channel>
-    <channel id="ME_TV">
-        <display-name>ME TV</display-name>
-        <icon src="http://example.com/logos/me_tv.png" />
-    </channel>
-    <channel id="MTV">
-        <display-name>MTV</display-name>
-        <icon src="http://example.com/logos/mtv.png" />
-    </channel>
-    <channel id="REELZ">
-        <display-name>REELZ</display-name>
-        <icon src="http://example.com/logos/reelz.png" />
-    </channel>
-    <channel id="SYFY">
-        <display-name>SYFY</display-name>
-        <icon src="http://example.com/logos/syfy.png" />
-    </channel>
-    <channel id="TBS">
-        <display-name>TBS</display-name>
-        <icon src="http://example.com/logos/tbs.png" />
-    </channel>
-    <channel id="TRU_TV">
-        <display-name>TRU TV</display-name>
-        <icon src="http://example.com/logos/tru_tv.png" />
-    </channel>
-    <channel id="VH1">
-        <display-name>VH1</display-name>
-        <icon src="http://example.com/logos/vh1.png" />
-    </channel>
-    <channel id="CINEMAX">
-        <display-name>CINEMAX</display-name>
-        <icon src="http://example.com/logos/cinemax.png" />
-    </channel>
-    <channel id="CINEMAX_WEST">
-        <display-name>CINEMAX WEST</display-name>
-        <icon src="http://example.com/logos/cinemax_west.png" />
-    </channel>
-    <channel id="OUTER_MAX">
-        <display-name>OUTER MAX</display-name>
-        <icon src="http://example.com/logos/outer_max.png" />
-    </channel>
-    <channel id="HBO">
-        <display-name>HBO</display-name>
-        <icon src="http://example.com/logos/hbo.png" />
-    </channel>
-    <channel id="HBO_FAMILY">
-        <display-name>HBO FAMILY</display-name>
-        <icon src="http://example.com/logos/hbo_family.png" />
-    </channel>
-    <channel id="SHOWTIME">
-        <display-name>SHOWTIME</display-name>
-        <icon src="http://example.com/logos/showtime.png" />
-    </channel>
-    <channel id="SHOWTIME_WEST">
-        <display-name>SHOWTIME WEST</display-name>
-        <icon src="http://example.com/logos/showtime_west.png" />
-    </channel>
-    <channel id="SHOWTIME_NEXT">
-        <display-name>SHOWTIME NEXT</display-name>
-        <icon src="http://example.com/logos/showtime_next.png" />
-    </channel>
-    <channel id="SHOWTIME_WOMEN">
-        <display-name>SHOWTIME WOMEN</display-name>
-        <icon src="http://example.com/logos/showtime_women.png" />
-    </channel>
-    <channel id="BET_HER">
-        <display-name>BET HER</display-name>
-        <icon src="http://example.com/logos/bet_her.png" />
-    </channel>
-    <channel id="COOKING_CHANNEL">
-        <display-name>COOKING CHANNEL</display-name>
-        <icon src="http://example.com/logos/cooking_channel.png" />
-    </channel>
-    <channel id="HGTV">
-        <display-name>HGTV</display-name>
-        <icon src="http://example.com/logos/hgtv.png" />
-    </channel>
-    <channel id="LIFETIME">
-        <display-name>LIFETIME</display-name>
-        <icon src="http://example.com/logos/lifetime.png" />
-    </channel>
-    <channel id="DIY">
-        <display-name>DIY</display-name>
-        <icon src="http://example.com/logos/diy.png" />
-    </channel>
-    <channel id="MOTOR_TREND">
+    <channel id="motortrend.us">
         <display-name>MOTOR TREND</display-name>
         <icon src="http://example.com/logos/motor_trend.png" />
     </channel>
-    <channel id="OUTDOOR_CHANNEL">
+    <channel id="msg.us">
+        <display-name>MSG</display-name>
+        <icon src="http://example.com/logos/msg.png" />
+    </channel>
+    <channel id="nbatv.us">
+        <display-name>NBA TV</display-name>
+        <icon src="http://example.com/logos/nba_tv.png" />
+    </channel>
+    <channel id="nbcsportsboston.us">
+        <display-name>NBC SPORTS BOSTON</display-name>
+        <icon src="http://example.com/logos/nbc_sports_boston.png" />
+    </channel>
+    <channel id="nfl.us">
+        <display-name>NFL NETWORK</display-name>
+        <icon src="http://example.com/logos/nfl_network.png" />
+    </channel>
+    <channel id="nhl.us">
+        <display-name>NHL NETWORK</display-name>
+        <icon src="http://example.com/logos/nhl_network.png" />
+    </channel>
+    <channel id="outdoorchannel.us">
         <display-name>OUTDOOR CHANNEL</display-name>
         <icon src="http://example.com/logos/outdoor_channel.png" />
     </channel>
-    <channel id="Travel_Channel">
+    <channel id="yesnetwork.us">
+        <display-name>YES NETWORK</display-name>
+        <icon src="http://example.com/logos/yes_network.png" />
+    </channel>
+    <channel id="cinemax.us">
+        <display-name>CINEMAX</display-name>
+        <icon src="http://example.com/logos/cinemax.png" />
+    </channel>
+    <channel id="cinemaxwest.us">
+        <display-name>CINEMAX WEST</display-name>
+        <icon src="http://example.com/logos/cinemax_west.png" />
+    </channel>
+    <channel id="fxmovies.us">
+        <display-name>FX MOVIE</display-name>
+        <icon src="http://example.com/logos/fx_movie.png" />
+    </channel>
+    <channel id="hallmarkmovies.us">
+        <display-name>HALLMARK MOVIES MYSTERIES</display-name>
+        <icon src="http://example.com/logos/hallmark_movies_mysteries.png" />
+    </channel>
+    <channel id="hbo.us">
+        <display-name>HBO</display-name>
+        <icon src="http://example.com/logos/hbo.png" />
+    </channel>
+    <channel id="hbofamily.us">
+        <display-name>HBO FAMILY</display-name>
+        <icon src="http://example.com/logos/hbo_family.png" />
+    </channel>
+    <channel id="lifetimemovies.us">
+        <display-name>LIFETIME MOVIE NETWORK</display-name>
+        <icon src="http://example.com/logos/lifetime_movie_network.png" />
+    </channel>
+    <channel id="outermax.us">
+        <display-name>OUTER MAX</display-name>
+        <icon src="http://example.com/logos/outer_max.png" />
+    </channel>
+    <channel id="reelz.us">
+        <display-name>REELZ</display-name>
+        <icon src="http://example.com/logos/reelz.png" />
+    </channel>
+    <channel id="showtime.us">
+        <display-name>SHOWTIME</display-name>
+        <icon src="http://example.com/logos/showtime.png" />
+    </channel>
+    <channel id="showtimenext.us">
+        <display-name>SHOWTIME NEXT</display-name>
+        <icon src="http://example.com/logos/showtime_next.png" />
+    </channel>
+    <channel id="showtimewest.us">
+        <display-name>SHOWTIME WEST</display-name>
+        <icon src="http://example.com/logos/showtime_west.png" />
+    </channel>
+    <channel id="showtimewomen.us">
+        <display-name>SHOWTIME WOMEN</display-name>
+        <icon src="http://example.com/logos/showtime_women.png" />
+    </channel>
+    <channel id="amc.us">
+        <display-name>AMC NETWORK</display-name>
+        <icon src="http://example.com/logos/amc_network.png" />
+    </channel>
+    <channel id="bbcamerica.us">
+        <display-name>BBC AMERICA</display-name>
+        <icon src="http://example.com/logos/bbc_america.png" />
+    </channel>
+    <channel id="beteast.us">
+        <display-name>BET EAST</display-name>
+        <icon src="http://example.com/logos/bet_east.png" />
+    </channel>
+    <channel id="bether.us">
+        <display-name>BET HER</display-name>
+        <icon src="http://example.com/logos/bet_her.png" />
+    </channel>
+    <channel id="bouncetv.us">
+        <display-name>BOUNCE TV</display-name>
+        <icon src="http://example.com/logos/bounce_tv.png" />
+    </channel>
+    <channel id="bravo.us">
+        <display-name>BRAVO</display-name>
+        <icon src="http://example.com/logos/bravo.png" />
+    </channel>
+    <channel id="cmt.us">
+        <display-name>CMT</display-name>
+        <icon src="http://example.com/logos/cmt.png" />
+    </channel>
+    <channel id="comedycentral.us">
+        <display-name>Comedy Central</display-name>
+        <icon src="http://example.com/logos/comedy_central.png" />
+    </channel>
+    <channel id="comet.us">
+        <display-name>COMET</display-name>
+        <icon src="http://example.com/logos/comet.png" />
+    </channel>
+    <channel id="cookingchannel.us">
+        <display-name>COOKING CHANNEL</display-name>
+        <icon src="http://example.com/logos/cooking_channel.png" />
+    </channel>
+    <channel id="diy.us">
+        <display-name>DIY</display-name>
+        <icon src="http://example.com/logos/diy.png" />
+    </channel>
+    <channel id="fx.us">
+        <display-name>FX</display-name>
+        <icon src="http://example.com/logos/fx.png" />
+    </channel>
+    <channel id="fxx.us">
+        <display-name>FXX</display-name>
+        <icon src="http://example.com/logos/fxx.png" />
+    </channel>
+    <channel id="gettv.us">
+        <display-name>GET TV</display-name>
+        <icon src="http://example.com/logos/get_tv.png" />
+    </channel>
+    <channel id="hallmark.us">
+        <display-name>HALLMARK CHANNEL</display-name>
+        <icon src="http://example.com/logos/hallmark_channel.png" />
+    </channel>
+    <channel id="hallmarkdrama.us">
+        <display-name>HALLMARK DRAMA</display-name>
+        <icon src="http://example.com/logos/hallmark_drama.png" />
+    </channel>
+    <channel id="hgtv.us">
+        <display-name>HGTV</display-name>
+        <icon src="http://example.com/logos/hgtv.png" />
+    </channel>
+    <channel id="lifetime.us">
+        <display-name>LIFETIME</display-name>
+        <icon src="http://example.com/logos/lifetime.png" />
+    </channel>
+    <channel id="metv.us">
+        <display-name>ME TV</display-name>
+        <icon src="http://example.com/logos/me_tv.png" />
+    </channel>
+    <channel id="mtv.us">
+        <display-name>MTV</display-name>
+        <icon src="http://example.com/logos/mtv.png" />
+    </channel>
+    <channel id="paramount.us">
+        <display-name>PARAMOUNT NETWORK</display-name>
+        <icon src="http://example.com/logos/paramount_network.png" />
+    </channel>
+    <channel id="syfy.us">
+        <display-name>SYFY</display-name>
+        <icon src="http://example.com/logos/syfy.png" />
+    </channel>
+    <channel id="tbs.us">
+        <display-name>TBS</display-name>
+        <icon src="http://example.com/logos/tbs.png" />
+    </channel>
+    <channel id="travelchannel.us">
         <display-name>Travel Channel</display-name>
         <icon src="http://example.com/logos/travel_channel.png" />
     </channel>
-    <channel id="BOOMERANG">
-        <display-name>BOOMERANG</display-name>
-        <icon src="http://example.com/logos/boomerang.png" />
+    <channel id="trutv.us">
+        <display-name>TRU TV</display-name>
+        <icon src="http://example.com/logos/tru_tv.png" />
     </channel>
-    <channel id="CARTOON_NETWORK">
-        <display-name>CARTOON NETWORK</display-name>
-        <icon src="http://example.com/logos/cartoon_network.png" />
+    <channel id="vh1.us">
+        <display-name>VH1</display-name>
+        <icon src="http://example.com/logos/vh1.png" />
     </channel>
-    <channel id="DISCOVERY_FAMILY_CHANNEL">
-        <display-name>DISCOVERY FAMILY CHANNEL</display-name>
-        <icon src="http://example.com/logos/discovery_family_channel.png" />
-    </channel>
-    <channel id="DISNEY_XD">
-        <display-name>DISNEY XD</display-name>
-        <icon src="http://example.com/logos/disney_xd.png" />
-    </channel>
-    <channel id="NICKTOONS">
-        <display-name>NICKTOONS</display-name>
-        <icon src="http://example.com/logos/nicktoons.png" />
-    </channel>
-    <channel id="DISNEY_JR">
-        <display-name>DISNEY JR</display-name>
-        <icon src="http://example.com/logos/disney_jr.png" />
-    </channel>
-    <channel id="NICK_JR">
-        <display-name>NICK JR</display-name>
-        <icon src="http://example.com/logos/nick_jr.png" />
-    </channel>
-    <channel id="UNKNOWN_CHANNEL">
-        <display-name>UNKNOWN CHANNEL</display-name>
-        <icon src="http://example.com/logos/unknown_channel.png" />
-    </channel>
-    <channel id="Animal_Planet">
+    <channel id="animalplanet.us">
         <display-name>Animal Planet</display-name>
         <icon src="http://example.com/logos/animal_planet.png" />
     </channel>
-    <channel id="Discovery_Channel">
+    <channel id="boomerang.us">
+        <display-name>BOOMERANG</display-name>
+        <icon src="http://example.com/logos/boomerang.png" />
+    </channel>
+    <channel id="cartoonnetwork.us">
+        <display-name>CARTOON NETWORK</display-name>
+        <icon src="http://example.com/logos/cartoon_network.png" />
+    </channel>
+    <channel id="discoveryfamily.us">
+        <display-name>DISCOVERY FAMILY CHANNEL</display-name>
+        <icon src="http://example.com/logos/discovery_family_channel.png" />
+    </channel>
+    <channel id="disneyjr.us">
+        <display-name>DISNEY JR</display-name>
+        <icon src="http://example.com/logos/disney_jr.png" />
+    </channel>
+    <channel id="disneyxd.us">
+        <display-name>DISNEY XD</display-name>
+        <icon src="http://example.com/logos/disney_xd.png" />
+    </channel>
+    <channel id="nickjr.us">
+        <display-name>NICK JR</display-name>
+        <icon src="http://example.com/logos/nick_jr.png" />
+    </channel>
+    <channel id="nicktoons.us">
+        <display-name>NICKTOONS</display-name>
+        <icon src="http://example.com/logos/nicktoons.png" />
+    </channel>
+    <channel id="discovery.us">
         <display-name>Discovery Channel</display-name>
         <icon src="http://example.com/logos/discovery_channel.png" />
     </channel>
-    <channel id="History_Channel">
+    <channel id="history.us">
         <display-name>History Channel</display-name>
         <icon src="http://example.com/logos/history_channel.png" />
     </channel>
-    <channel id="INVESTIGATION_DISCOVERY">
+    <channel id="investigationdiscovery.us">
         <display-name>INVESTIGATION DISCOVERY</display-name>
         <icon src="http://example.com/logos/investigation_discovery.png" />
     </channel>
-    <channel id="National_Geographic">
+    <channel id="natgeo.us">
         <display-name>National Geographic</display-name>
         <icon src="http://example.com/logos/national_geographic.png" />
+    </channel>
+    <channel id="laff.us">
+        <display-name>Laff</display-name>
+        <icon src="http://example.com/logos/laff.png" />
+    </channel>
+    <channel id="unknown.us">
+        <display-name>UNKNOWN CHANNEL</display-name>
+        <icon src="http://example.com/logos/unknown_channel.png" />
     </channel>
 </tv>
