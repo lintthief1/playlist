@@ -3,10 +3,34 @@
 http://null
 #EXTINF:-1 tvg-id="acc.us",ACC NETWORK
 http://fl3.moveonjoy.com/ACC_NETWORK/index.m3u8
-#EXTINF:-1 tvg-id="examplechannel.us",CBS Sports
+#EXTINF:-1 tvg-id="examplechannel.us",CBS SPORTS
 https://zekonew.newkso.ru/zeko/premium308/mono.m3u8|Referer=https://allupplay.xyz/&Origin=https://allupplay.xyz&Connection=Keep-Alive&User-Agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-id="examplechannel.us",Fox AFL
+#EXTINF:-1 tvg-id="examplechannel.us",FOX FOOTY
 https://zekonew.newkso.ru/zeko/premium822/mono.m3u8|Referer=https://allupplay.xyz/&Origin=https://allupplay.xyz&Connection=Keep-Alive&User-Agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-id="examplechannel.us",FOX LEAGUE RUGBY
+https://zekonew.newkso.ru/zeko/premium820/mono.m3u8|Referer=https://allupplay.xyz/&Origin=https://allupplay.xyz&Connection=Keep-Alive&User-Agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-id="examplechannel.us",FOX SPORTS 2
+https://zekonew.newkso.ru/zeko/premium758/mono.m3u8|Referer=https://allupplay.xyz/&Origin=https://allupplay.xyz&Connection=Keep-Alive&User-Agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-id="amc.us",FIGHT NETWORK
+https://zekonew.newkso.ru/zeko/premium757/mono.m3u8|Referer=https://allupplay.xyz/&Origin=https://allupplay.xyz&Connection=Keep-Alive&User-Agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-id="amc.us",WWE
+https://windnew.newkso.ru/wind/premium376/mono.m3u8|Referer=https://allupplay.xyz/&Origin=https://allupplay.xyz&Connection=Keep-Alive&User-Agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-id="amc.us",SN WEST 1
+https://windnew.newkso.ru/wind/premium407/mono.m3u8|Referer=https://allupplay.xyz/&Origin=https://allupplay.xyz&Connection=Keep-Alive&User-Agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-id="amc.us",WILLOW CRICKET
+https://zekonew.newkso.ru/zeko/premium346/mono.m3u8|Referer=https://allupplay.xyz/&Origin=https://allupplay.xyz&Connection=Keep-Alive&User-Agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-id="amc.us",SKY FOOTBALL
+https://zekonew.newkso.ru/zeko/premium35/mono.m3u8|Referer=https://allupplay.xyz/&Origin=https://allupplay.xyz&Connection=Keep-Alive&User-Agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-id="amc.us",ESPN SPORTS
+https://zekonew.newkso.ru/zeko/premium44/mono.m3u8|Referer=https://allupplay.xyz/&Origin=https://allupplay.xyz&Connection=Keep-Alive&User-Agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-id="amc.us",BIEN SPORTS US
+https://zekonew.newkso.ru/zeko/premium425/mono.m3u8|Referer=https://allupplay.xyz/&Origin=https://allupplay.xyz&Connection=Keep-Alive&User-Agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-id="amc.us",CTV
+https://zekonew.newkso.ru/zeko/premium602/mono.m3u8|Referer=https://allupplay.xyz/&Origin=https://allupplay.xyz&Connection=Keep-Alive&User-Agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-id="amc.us",DUBAI RACING
+https://dokko1new.newkso.ru/dokko1/premium607/mono.m3u8|Referer=https://allupplay.xyz/&Origin=https://allupplay.xyz&Connection=Keep-Alive&User-Agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-id="amc.us",TSN
+https://zekonew.newkso.ru/zeko/premium111/mono.m3u8|Referer=https://allupplay.xyz/&Origin=https://allupplay.xyz&Connection=Keep-Alive&User-Agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-id="amc.us",AMC NETWORK
 http://fl5.moveonjoy.com/AMC_NETWORK/index.m3u8
 #EXTINF:-1 tvg-id="animalplanet.us",Animal Planet
