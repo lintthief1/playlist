@@ -3,6 +3,8 @@
 http://null
 #EXTINF:-1 tvg-id="acc.us",ACC NETWORK
 http://fl3.moveonjoy.com/ACC_NETWORK/index.m3u8
+#EXTINF:-1 tvg-id="acc.us",Something
+https://zekonew.newkso.ru/zeko/premium44/mono.m3u8
 #EXTINF:-1 tvg-id="amc.us",AMC NETWORK
 http://fl5.moveonjoy.com/AMC_NETWORK/index.m3u8
 #EXTINF:-1 tvg-id="animalplanet.us",Animal Planet
