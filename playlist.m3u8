@@ -4,7 +4,7 @@ http://null
 #EXTINF:-1 tvg-id="acc.us",ACC NETWORK
 http://fl3.moveonjoy.com/ACC_NETWORK/index.m3u8
 #EXTINF:-1 tvg-id="examplechannel.us",CBS SPORTS
-https://zekonew.newkso.ru/zeko/premium308/mono.m3u8|Referer=https://allupplay.xyz/&Origin=https://allupplay.xyz&Connection=Keep-Alive&User-Agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36
+https://zekonew.newkso.ru/zeko/premium308/mono.m3u8|Referer=https://allupplay.xyz/&User-Agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-id="examplechannel.us",FOX FOOTY
 https://zekonew.newkso.ru/zeko/premium822/mono.m3u8|Referer=https://allupplay.xyz/&Origin=https://allupplay.xyz&Connection=Keep-Alive&User-Agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-id="examplechannel.us",FOX LEAGUE RUGBY
